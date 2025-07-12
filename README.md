@@ -259,13 +259,6 @@ Adjust grid layouts in `styles/responsive.css`:
 3. **Responsive issues**: Verify viewport meta tag is present
 4. **Animation lag**: Check for hardware acceleration support
 
-### Support
-For issues and feature requests, please check the documentation or create an issue in the project repository.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - **Inter Font**: Google Fonts
@@ -275,4 +268,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Built with ❤️ using HTML5, CSS3, and Vanilla JavaScript
+Built By Vishnu Vardhan Bairy with ❤️ using HTML5, CSS3, and Vanilla JavaScript
